@@ -1,2 +1,17 @@
-# m03-reliability-engineering
-Learn about the M03 "Reliability Engineering"
+# M03 "Reliability Engineering"
+
+*description*
+
+
+
+## Prerequisites
+
+- *English level*
+- *technical*
+- *previous courses*
+
+
+
+## Upcoming Sessions
+
+*dates*
