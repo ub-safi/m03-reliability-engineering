@@ -55,44 +55,45 @@ La formation est dispensée sous forme de classe virtuelle sous Teams. Informati
 
 
 ## OBJECTIFS DE LA FORMATION
-Upon completion of this module, the participant will be able to:
-- Identify and analyse the concepts and principals of reliability engineering and their potential applications to different engineering problems,
-- Identify the failure modes of components and characterise the associated service life distributions,
-- Assess and analyse appropriate approaches to quantify the reliability of components based on the available data (feedback, tests, calculations),
-- Design component reliability validation plans (accelerated tests, reliability forecast by numerical simulation, etc.),
-- Demonstrate robustness in relation to the environment and an operating reliability level,
-- Improve reliability engineering methods by using feedback,
-- Evaluate and select appropriate techniques and tools to propose an approach in response to reliability questions asked by design offices (risk quantification).
+A l’issue de ce module, le participant sera capable de :
+- Identifier et analyser les concepts et principes de l’ingénierie de la fiabilité et leurs applications potentielles à différents problèmes d’ingénierie
+- Identifier les modes de défaillance des composants et caractériser les distributions de durée de vie associées
+- Évaluer et analyser les approches appropriées pour quantifier la fiabilité des composants sur la base des données disponibles (retour d’expérience, tests, calculs)
+- Concevoir des plans de validation de la fiabilité des composants (essais accélérés, fiabilité prévisionnelle par simulation numérique, etc.)
+- Démontrer la robustesse par rapport à l’environnement et à un niveau de fiabilité opérationnelle
+- Améliorer les méthodes d’ingénierie de la fiabilité en utilisant le retour d’expérience
+- Évaluer et sélectionner les techniques et outils appropriés pour proposer une démarche en réponse à des problèmes de fiabilité
 
 
 
 ## PROGRAMME
-This course will introduce participants to fundamental reliability concepts and models and their application to product development at different phases of the systems life cycle. The concepts covered are of interest to most engineers as industry increasingly shifts toward risk-oriented approaches and understanding reliability is a key factor in identifying and in mitigating the risk.
+Ce cours présentera aux participants les concepts et modèles fondamentaux de la fiabilité et leur application au développement de produits à différentes phases du cycle de vie des systèmes. Les concepts abordés intéressent la plupart des ingénieurs car l’industrie s’oriente de plus en plus vers des approches axées sur le risque et la compréhension de la fiabilité est un facteur clé dans l’identification et l’atténuation du risque.
 
-The course is organised as follows:
+<!--The course is organised as follows:-->
 
-### Reliability Fundamentals
-- Key concepts (failure and survival probability; failure and hazard rate etc.).
-- Models of reliability functions
-- Weibull distribution and its engineering application.
-- Other distributions and application of theory of confidence interval.
+### Fondamentaux de la fiabilité
+- Concepts clés (probabilité de défaillance et de survie, taux de défaillance et taux de risque, etc.)
+- Modèles de fonctions de fiabilité
+- Distribution de Weibull et son application en ingénierie
+- Autres distributions et application de la théorie de l’intervalle de confiance
 
-### Experimental Reliability
-- Introduction to the concept of censoring in relation to both field data and planned tests.
-- Time in service analysis
-- Standard reliability tests and parameter estimation.
-- Accelerated life testing and explain use of regression with life data.
-- Models of cumulative damage and use of such models to derive life models.
-- Introduction to Bayesian reliability analysis.
+### Fiabilité expérimentale
+- Introduction au concept de censure en relation avec les données de terrain et les tests planifiés
+- Analyse du temps en service (Time In Service)
+- Tests de fiabilité standard et estimation des paramètres
+- Essais de durée de vie accélérée (Accelerated Life Testing) et explication de l’utilisation de la régression avec les données de durée de vie
+- Modèles de dommages cumulatifs et utilisation de ces modèles pour déduire des modèles de durée de vie
+- Introduction à l’analyse bayésienne de la fiabilité
 
-### Operational Reliability
-- Random censoring on field data.
-- Introduction to Kaplan-Meier nonparametric estimator.
-- Warranty data analysis.
-- Mileage based field data analysis.
+### Fiabilité opérationnelle
+- Censure aléatoire sur les données de terrain
+<!-- - Introduction to Kaplan-Meier nonparametric estimator. -->
+- Introduction au traitement des données d’enquête et des données catégorielles à l’aide d’exemples de données de terrain (estimateur de Kaplan-Meier)
+- Analyse des données de garantie
+- Analyse des données de terrain en fonction du kilométrage
 
-### Mini-Project
-- Strengthening the delivered concepts through application to an industry case study.
+### Mini-Projet
+- Renforcement des concepts enseignés par l’application à une étude de cas industrielle
 
 
 
