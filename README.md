@@ -23,7 +23,7 @@ The course is for professional engineers with responsibilities in new product de
 ## Training Delivery Methodology
 The delivery is designed as a workshop style with an approximate 50/50 split between technical sessions and hands-on exercises, designed to explain the concepts by leveraging relevant industrial case studies.
 
-Delivered online. Package to include reading, and training material with Python Programming tutorials at Introductory level will be delivered prior to the module start.
+Delivered online. Course package to be sent a week in advance with joining instructions and training material with Python Programming tutorials at Introductory level.
 
 
 
